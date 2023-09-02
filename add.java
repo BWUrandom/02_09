@@ -19,7 +19,6 @@ public class SumTwoNumbers {
  
         // Add two numbers using + operator
         sum = num1 + num2;
-        System.out.println("Sum of " + num1 + " and 
-            " + num2 + " = " + sum);
+        System.out.println("Sum of " + num1 + " and  " + num2 + " = " + sum);
     }
 }
